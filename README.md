@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![join1](https://github.com/ShankarNarayananS/Holmes-ChatBot/blob/master/ezgif-3-3f9f3ee077f3.gif)
+<img src="https://github.com/ShankarNarayananS/Holmes-ChatBot/blob/master/ezgif-3-3f9f3ee077f3.gif">
 
 </p>
 
