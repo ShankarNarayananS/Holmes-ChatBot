@@ -1,6 +1,10 @@
 <h1> Holmes : An AI Chatbot built using Node JS and Google DialogFlow </h1>
 
+<p align="center">
+
 ![join1](https://github.com/ShankarNarayananS/Holmes-ChatBot/blob/master/ezgif-3-3f9f3ee077f3.gif)
+
+</p>
 
 <h2> Who is it for? </h2>
 <h4> Anybody who want to implement a chatbot service in their server but do not know not where to start or if you are just curious too know how AI chatbots works can make use of this repository </h4>
