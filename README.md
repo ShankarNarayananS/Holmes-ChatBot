@@ -6,6 +6,8 @@
 
 </p>
 
+<h3> Click <a href="https://www.youtube.com/watch?v=-5wf68SXIWg">here</a> for a better view </h3>
+
 <h2> Who is it for? </h2>
 <h4> Anybody who want to implement a chatbot service in their server but do not know not where to start or if you are just curious too know how AI chatbots works can make use of this repository </h4>
 
