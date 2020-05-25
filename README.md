@@ -1,4 +1,4 @@
-<h1> Holmes : An AI Chatbbuilt using Node JS and Google DialogFlow</h1>
+<h1> Holmes : An AI Chatbot built using Node JS and Google DialogFlow</h1>
 
 <p align="center">
 
